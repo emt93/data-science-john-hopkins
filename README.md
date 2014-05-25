@@ -1,9 +1,9 @@
-data-science-john-hopkins
+#Data Science - John-Hopkins
 =========================
 
 Projects for the data scientist courses on coursera
 
-##Getting and Cleaning Data - Project 1 
+###Getting and Cleaning Data - Project 1 
 
 At the moment this repo contains code called run_analysis.R which analyses a dataset based off of Samsung smartphone accelerometer data which can be found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 

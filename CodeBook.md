@@ -1,7 +1,7 @@
-##Getting and Cleaning Data - Project 1
+#Getting and Cleaning Data - Project 1
 =======================================
 
-#Process 
+###Process 
 
 1. call the plyr package from my library
 2. download the file to your working directory. The file is not included in this code because the assignment specifies that the Samsung data should already be in the wd. 
@@ -18,7 +18,7 @@
 13. bind all columns to form new dataframe
 14. write a new dataset onto the working directory into a .txt file
 
-#Variables and Data
+###Variables and Data
 
 In the data provided by Samsung Galaxy smartphone accelerometers, we are able to measure many variable inputs such as:
 

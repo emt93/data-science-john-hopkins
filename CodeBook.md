@@ -21,4 +21,12 @@
 ###Variables and Data
 
 In the data provided by Samsung Galaxy smartphone accelerometers, we are able to measure many variable inputs such as:
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
+The purpose was to extract, analyse and combine these data in order to obtain a more comprehensive independent tidy dataset about the mean and std. deviation. 
 
